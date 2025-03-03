@@ -1,0 +1,11 @@
+item.santafreedom:flag.name=Vlajka svobody
+item.santafreedom:freedom_bucket.name=Kbelík svobody
+item.santafreedom:american_flavoring.name=Americké ochucovadlo
+item.santafreedom:fried_chicken.name=Kyblík smaženého kuřete
+item.santafreedom:mtn_dew.name=Kbelík Mountain Dewu
+item.santafreedom:freedom_bread.name=Chleba svobody
+item.santafreedom:freedom_pie.name=Koláč svobody
+
+santafreedom.tooltip.tasteslikeamerica=Víš jak to chutná? Jako Amerika.
+
+itemGroup.Freedom=Freedom - Předměty
